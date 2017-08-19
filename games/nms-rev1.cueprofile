@@ -673,7 +673,8 @@
 																					<cereal_class_version>200</cereal_class_version>
 																					<name>Tools (General)</name>
 																					<keys size="dynamic">
-																						<value0>X</value0>
+																						<value0>Z</value0>
+																						<value1>X</value1>
 																					</keys>
 																					<enabled>true</enabled>
 																					<executionHints>
@@ -828,9 +829,8 @@
 																				<base>
 																					<name>Environment</name>
 																					<keys size="dynamic">
-																						<value0>T</value0>
-																						<value1>F</value1>
-																						<value2>C</value2>
+																						<value0>F</value0>
+																						<value1>C</value1>
 																					</keys>
 																					<enabled>true</enabled>
 																					<executionHints>
@@ -2328,7 +2328,7 @@
 			<isDefault>false</isDefault>
 		</dpiMode>
 		<dpiModeAdditional>
-			<id>{3b5adc20-dda8-4e76-b92e-a8f63af96e11}</id>
+			<id>{bf7068aa-9f9b-4b87-bf28-21a6f3f957b1}</id>
 			<name></name>
 			<settings size="dynamic"/>
 			<sniper>
